@@ -1,5 +1,7 @@
 # Sistema de Lista de Compras (v1.0) 🛒
 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 **Descrição:** Este projeto é um gerenciador de lista de compras desenvolvido em Python. O objetivo foi criar uma aplicação de linha de comando (CLI) que permite ao usuário interagir com uma lista persistente, ou seja, os dados não são perdidos ao fechar o programa.
 
 ## Funcionalidades:
